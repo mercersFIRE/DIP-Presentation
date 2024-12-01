@@ -3,7 +3,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 from collections import defaultdict
 
-# Arithmetic Coding Implementation
 class ArithmeticCoding:
     def __init__(self):
         self.low = 0.0
